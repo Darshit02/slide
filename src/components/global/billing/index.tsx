@@ -1,0 +1,14 @@
+import React from 'react'
+
+type Props = {}
+
+const Billing = (props: Props) => {
+    //WIP : Fetch billing data
+  return (
+    <div className='flex lg:flex-row flex-col gap-5 w-full lg:w-10/12 xl:w-8/12 container'>
+        
+    </div>
+  )
+}
+
+export default Billing
